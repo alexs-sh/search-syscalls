@@ -1,5 +1,7 @@
 # About
 
+![Build status](https://github.com/alexs-sh/search-syscalls/actions/workflows/build.yml/badge.svg)
+
 A simple helper for searching words which looks like a syscall in C/C++ apps.
 
 # Build and run
